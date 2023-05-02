@@ -1,0 +1,32 @@
+[
+  {
+    "rukovoditel": "oleg.vaskevich.it@gmail.com",
+    "sotrudniki": {
+      "sotrudnik1": {
+        "name": "Иванов Иван Иванович",
+        "email": "ivanov.i@gmail.com",
+        "birthday": "11.11.2021"
+      },
+      "sotrudnik2": {
+        "name": "Иванов Василий Иванович",
+        "email": "ivanov.v@gmail.com",
+        "birthday": "12.11.2021"
+      }
+    }
+  },
+  {
+    "rukovoditel": "oleg.vaskevich.it@gmail.com",
+    "sotrudniki": {
+      "sotrudnik1": {
+        "name": "Сидоров Иван Иванович",
+        "email": "sidorov.i@gmail.com",
+        "birthday": "11.11.2021"
+      },
+      "sotrudnik2": {
+        "name": "Сидоров Василий Иванович",
+        "email": "sidorov.v@gmail.com",
+        "birthday": "12.11.2021"
+      }
+    }
+  }
+]
